@@ -1,0 +1,10 @@
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\bin\Debug\Unkillable Process.exe.config
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\bin\Debug\Unkillable Process.exe
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\bin\Debug\Unkillable Process.pdb
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable Process.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable_Process.Form1.resources
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable_Process.Properties.Resources.resources
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable Process.csproj.GenerateResource.cache
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable Process.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable Process.exe
+C:\Users\ygzat\source\repos\C#\Unkillable Process\Unkillable Process\obj\Debug\Unkillable Process.pdb
